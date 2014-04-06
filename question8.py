@@ -9,6 +9,10 @@ if n == 2:
 	print "2 is a prime number"
 elif n%2!=0 and n%3!=0 and n%5!=0:
 	print n,"is a prime number"
+elif n==3: 
+	print n, "is a prime number"
+elif n==5:
+	print n, "is a prime number"
 else:
 	print n, "is not a prime number"
 
